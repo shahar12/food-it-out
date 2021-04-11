@@ -14,6 +14,15 @@ const Nav = () => {
                 <li>
                     <Link href='/form' Name="">register </Link>
                 </li>
+                <li>
+                    <Link href='/form' Name="">donate</Link>
+                </li>
+                <li>
+                    <Link href='/form' Name="">get help</Link>
+                </li>
+                <li>
+                    <Link href='/form' Name="">vulantre</Link>
+                </li>
             </ul>
         </div>
     );

@@ -1,0 +1,15 @@
+.styleForm {
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: darkturquoise;
+    border-radius: 50px;
+}
+
+.styleInput {
+    color: dodgerblue;
+    border-radius: 50px;
+}
