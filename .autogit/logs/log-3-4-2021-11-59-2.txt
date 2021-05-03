@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon May 03 2021 11:59:02 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-3-4-2021-11-28-52.txt
+
+
+Deleted files:
+
+
+Renamed files:
